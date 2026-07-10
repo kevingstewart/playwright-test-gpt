@@ -1,0 +1,6 @@
+{
+    "gptUsername": "foo",
+    "gptPassword": "bar",
+    "prompt": "echo this back to me: 203-995-1234, 1313 Mockingbird Lane, Walla Walla WA. 99362, jack.sparrow@gmail.com", 
+    "observe":"sparrow"
+}
